@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?Shondarzer-Taroka&layout=compact&theme=radical" alt="Md Nazmul Hasan's Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shondarzer-Taroka&layout=compact&theme=radical" alt="Md Nazmul Hasan's Top Languages" />
 </p>
 
 ---
