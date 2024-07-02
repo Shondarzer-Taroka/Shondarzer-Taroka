@@ -1,5 +1,5 @@
-
-
+<h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Md Nazmul Islam</h1>
+<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/cTVLGCs/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" alt="banner" />
@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shondarzer-Taroka&label=Profile%20views&color=0e75b6&style=flat" alt="Shondarzer-Taroka" />
 </p>
-
 
 <p align="center">Passionate Web Developer | Problem Solver | Open Source Enthusiast</p>
 
@@ -22,10 +21,22 @@
 
 ## 🛠️ Skills & Tools
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, GitHub, VS Code, Firebase
-- **UI/UX**: Responsive Design, CSS Frameworks (Tailwind CSS, Bootstrap)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 ---
 
