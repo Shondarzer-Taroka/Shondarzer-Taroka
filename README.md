@@ -1,9 +1,9 @@
-<h1 align="center">Welcome, I'm Md Nazmul Hasan 🚀</h1>
+<h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm I am md nazmul islam</h1>
+<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
 
 <p align="center">
- <img src="https://avatars.githubusercontent.com/u/your-friend-username" alt="Md Nazmul Hasan" width="200" />
+  <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3719" />
 </p>
-
 <p align="center">Passionate Web Developer | Problem Solver | Open Source Enthusiast</p>
 
 ---
