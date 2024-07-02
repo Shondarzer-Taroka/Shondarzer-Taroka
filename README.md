@@ -17,42 +17,27 @@
 ## 🛠️ Skills & Tools
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL
-- **Tools**: Git, GitHub, VS Code, Firebase, Docker
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git, GitHub, VS Code, Firebase
 - **UI/UX**: Responsive Design, CSS Frameworks (Tailwind CSS, Bootstrap)
 
 ---
 
-## 🌱 Currently Learning
 
-Continuously improving my skills in:
-
-- GraphQL
-- Next.js for server-side rendering
-- CI/CD pipelines with Jenkins
-
----
 
 ## 🚀 Projects
 
-### [Project Name]
-
-Short description of the project.
-
-### [Project Name]
-
-Short description of the project.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=your-friend-username&show_icons=true&theme=radical" alt="Md Nazmul Hasan's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Shondarzer-Taroka&show_icons=true&theme=radical" alt="Md Nazmul Hasan's GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-friend-username&layout=compact&theme=radical" alt="Md Nazmul Hasan's Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?Shondarzer-Taroka&layout=compact&theme=radical" alt="Md Nazmul Hasan's Top Languages" />
 </p>
 
 ---
@@ -60,7 +45,7 @@ Short description of the project.
 ## 📫 Connect With Me
 
 <p align="center">
- <a href="https://www.linkedin.com/in/md-nazmul-hasan/" target="_blank">
+ <a href="https://www.linkedin.com/in/mdnazmulnhasan/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
  </a>
  <a href="https://twitter.com/mdnazmulhasan" target="_blank">
