@@ -1,16 +1,22 @@
-<h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm I am md nazmul islam</h1>
-<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
+
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3719" />
+  <img src="https://i.ibb.co/cTVLGCs/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" alt="banner" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shondarzer-Taroka&label=Profile%20views&color=0e75b6&style=flat" alt="Shondarzer-Taroka" />
+</p>
+
+
 <p align="center">Passionate Web Developer | Problem Solver | Open Source Enthusiast</p>
 
 ---
 
 ## About Me
 
-👋 Hi, I'm Md Nazmul Hasan, a dedicated web developer with a knack for building robust and elegant web applications. My journey in web development is fueled by creativity and a drive to solve real-world problems through technology.
+👋 Hi, I'm Md Nazmul Islam, a dedicated web developer with a knack for building robust and elegant web applications. My journey in web development is fueled by creativity and a drive to solve real-world problems through technology.
 
 ---
 
@@ -23,10 +29,7 @@
 
 ---
 
-
-
 ## 🚀 Projects
-
 
 ---
 
