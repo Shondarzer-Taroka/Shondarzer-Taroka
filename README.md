@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/cTVLGCs/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" alt="banner" />
+  <img src="https://res.cloudinary.com/dw72swggv/image/upload/v1753507389/profile.git_d0eox8.jpg" alt="banner" />
 </p>
 
 <p align="center">
